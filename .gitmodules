@@ -1,0 +1,15 @@
+[submodule "google-homepage-"]
+	path = google-homepage-
+	url = https://github.com/battle-shiba/google-homepage-.git
+[submodule "etch-a-sketch"]
+	path = etch-a-sketch
+	url = https://github.com/battle-shiba/etch-a-sketch.git
+[submodule "rock-paper-scissors"]
+	path = rock-paper-scissors
+	url = https://github.com/battle-shiba/rock-paper-scissors.git
+[submodule "calculator"]
+	path = calculator
+	url = https://github.com/battle-shiba/calculator.git
+[submodule "library"]
+	path = library
+	url = https://github.com/battle-shiba/library.git
